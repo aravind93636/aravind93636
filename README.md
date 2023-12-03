@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning marketting and managements
 - 💞️ I’m looking to collaborate on any products designing
 - 📫 youe can reach here-> mail- aravindsrinivasan2006@gmail.com
-                           LinkedIn-> aravindsrinivasa
+                           LinkedIn-> aravind srinivasan
 
 <!---
 aravind93636/aravind93636 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
